@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayaprakashpaul7
-- 👀 I’m interested in Web3.0
+- 👀 I'm interested to learn new technologies 
 - 🌱 I’m currently learning FullStack Development 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me jayaprakashpaul777@gmail.com
 - 🎖️ In Web3 , I have basic knowledge in Solidity
 <!---
